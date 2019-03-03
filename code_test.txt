@@ -1,4 +1,13 @@
 add commit push toujours ensemble
+$ git add . ou git add name_file.ext
+
+$ git commit -m"update to share"
+
+$ git push origin master
+
+
+# ============================================
+
 
 On pull pour update
 
