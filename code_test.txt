@@ -1,1 +1,5 @@
-a = 1
+add commit push toujours ensemble
+
+On pull pour update
+
+git status --> état des maj 
